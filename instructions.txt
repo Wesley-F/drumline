@@ -1,0 +1,2 @@
+Spacebar : turn on lights
+C key: cymbals move
